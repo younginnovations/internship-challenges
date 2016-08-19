@@ -10,7 +10,7 @@
 
 #### Problem
 
-Write code which will scrape the data from the following [html page](https://cdn.rawgit.com/anjesh/internship-test/master/data-analysis/scrape-it/exampledata.html) in any one of the following programming languages (node, python, php, golang). If you don’t know what scraping is, now is the time to learn! 
+Write code which will scrape the data from the following [html page](https://cdn.rawgit.com/younginnovations/internship-challenges/master/data-analysis/scrape-it/exampledata.html) in any one of the following programming languages (node, python, php, golang). If you don’t know what scraping is, now is the time to learn! 
 
 The filename should be run.php, run.py, run.js or run.go according to the language you complete the challenge in. 
 
