@@ -28,9 +28,9 @@ In node,
 In go,
 `go run run.go`
 
-Your run script should create a folder called "out" and write a file "data.csv" inside a "data" folder.
+Your run script should create a folder called "out" and write a file "data.csv" inside that folder.
 
-Push your codes and data.csv file to the repo, maintaining the folder structure.
+Push your codes and "data.csv" file to the repo, maintaining the folder structure.
 
 ### Bonus points
 
