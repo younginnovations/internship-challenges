@@ -10,7 +10,7 @@
 
 #### Problem
 
-Write code which will scrape the data from the following [html page](https://cdn.rawgit.com/younginnovations/internship-challenges/master/data-analysis/scrape-it/exampledata.html) in any one of the following programming languages (node, python, php, golang). If you don’t know what scraping is, now is the time to learn! 
+Write code which will scrape all the data to CSV from the following [html page](https://cdn.rawgit.com/younginnovations/internship-challenges/master/data-analysis/scrape-it/exampledata.html) in any one of the following programming languages (node, python, php, golang). If you don’t know what scraping is, now is the time to learn! 
 
 The filename should be run.php, run.py, run.js or run.go according to the language you complete the challenge in. 
 
@@ -29,7 +29,6 @@ In go,
 `go run run.go`
 
 Your run script should create a folder called "out" and write a file "data.csv" inside a "data" folder.
-"data.csv" should contain the data as this "file"
 
 Push your codes and data.csv file to the repo, maintaining the folder structure.
 
