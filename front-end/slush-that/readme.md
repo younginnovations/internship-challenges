@@ -14,7 +14,7 @@
 1. Send us an email at internship@yipl.com.np with the subject "Zeplin request for Internship Challenge" and wait for at least a day to hear from us.
 2. You'll receive an invite from a design tool called 'Zeplin'. To learn more about Zeplin, click here: https://zeplin.io/
 3. Using Zeplin, you'll be able to access and open a project called "Slush Nepal"
-4. Once opne, you'll  be able to see 3 different screens: 
+4. Once open, you'll  be able to see 3 different screens: 
  - Landing Page
  - FAQ
  - Final_Slush Nepal
