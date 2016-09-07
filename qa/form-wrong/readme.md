@@ -7,7 +7,7 @@
 * Solve the problem detailed below
 * Push your code to the repo (make sure that you have multiple commits with proper messages) 
 * Invite internship-bitbucket@yipl.com.np to that particular private repo
-
+* Submit your application
 
 #### Problem
 
