@@ -9,7 +9,7 @@ Here are the list of the internship challenges. Please choose one of the followi
 * [Backend Programming](programming/log-processor)
 * [Mobile App Development](android/list-me)
 * [Frontend](https://github.com/younginnovations/internship-challenges/tree/master/front-end/slush-that)
-* [UI/UX]()
+* [UI/UX](https://github.com/younginnovations/internship-challenges/blob/master/UI_UX)
 
 After the completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application. 
 
