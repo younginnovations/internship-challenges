@@ -13,13 +13,11 @@
 
 1. Send us an email at internship@yipl.com.np with the subject "Zeplin request for Internship Challenge" and wait for at least a day to hear from us.
 2. You'll receive an invite from a design tool called 'Zeplin'. To learn more about Zeplin, click here: https://zeplin.io/
-3. Using Zeplin, you'll be able to access and open a project called "Slush Nepal"
-4. Once open, you'll  be able to see 3 different screens: 
+3. Using Zeplin, you'll be able to access and open a project called "Internship Challenge"
+4. Once open, you'll  be able to see following screen: 
  - Landing Page
- - FAQ
- - Final_Slush Nepal
-5. Your assignment is to turn the "Landing Page" screen into an interactive web page using HTML/ CSS (if possible JS). You don't have to implement or do anything with the FAQ and Final_Slush Nepal screens. Ignore them.
-5. Upload the html/css file into your repo
+5. Your assignment is to turn the "Landing Page" screen into an interactive web page using HTML/ CSS (if possible JS). 
+5. Upload the html/css/js file into your repo
 
 We'll be looking into following aspects of your assignment and using them as judging criteria:
 - How well the webpage you've made matches with the design file in Zeplin
@@ -28,4 +26,6 @@ We'll be looking into following aspects of your assignment and using them as jud
 - Naming convention of class names
 - Use of shorthand properties
 - Folder structure
-- Responsiveness (Plus point)
+- Responsiveness
+- CSS preprocessors (plus point)
+- CSS/ JS animations (plus point)
