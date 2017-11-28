@@ -1,9 +1,9 @@
-## Slush that design
+## Frontend the design
 
 ### What you need to do
 
 * If you haven't already done so, take a [git class in codeschool](https://www.codeschool.com/courses/try-git).
-* Once complete, create a private repo called “yipl-slush-that” in [bitbucket](https://bitbucket.org)
+* Once complete, create a private repo called “yipl-frontend-challenge” in [bitbucket](https://bitbucket.org)
 * Solve the problem detailed below
 * Push your code to the repo (make sure that you have multiple commits with proper messages) 
 * Invite internship-bitbucket@yipl.com.np to that particular private repo
@@ -13,7 +13,7 @@
 
 1. Send us an email at internship@yipl.com.np with the subject "Zeplin request for Internship Challenge" and wait for at least a day to hear from us.
 2. You'll receive an invite from a design tool called 'Zeplin'. To learn more about Zeplin, click here: https://zeplin.io/
-3. Using Zeplin, you'll be able to access and open a project called "Internship Challenge"
+3. Using Zeplin, you'll be able to access and open a project called "Frontend Challenge"
 4. Once open, you'll  be able to see following screen: 
  - Landing Page
 5. Your assignment is to turn the "Landing Page" screen into an interactive web page using HTML/ CSS (if possible JS). 
