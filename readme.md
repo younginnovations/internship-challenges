@@ -15,6 +15,8 @@ After the completion of the challenge, please submit your application from [here
 
 If you are able to complete the task fully, and the work is of good quality, we will progress you to the next round of the internship application process.
 
-If we find that an applicant has copied from someone (who has also submitted an application through the challenge), both applicants will be disqualified. At YIPL, we believe in honesty and hard work, and most of all, in the power of learning.
+If we find that an applicant has copied from someone (who has also submitted an application through the challenge), both applicants will be disqualified. At YoungInnovations, we believe in honesty and hard work, and most of all, in the power of learning.
+
+The **deadline** to submit your task and application is **11:59pm, December 17, 2017.** 
 
 Good luck!
