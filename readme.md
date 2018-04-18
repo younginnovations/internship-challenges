@@ -17,6 +17,6 @@ If you are able to complete the task fully, and the work is of good quality, we 
 
 If we find that an applicant has copied from someone (who has also submitted an application through the challenge), both applicants will be disqualified. At YoungInnovations, we believe in honesty and hard work, and most of all, in the power of learning.
 
-The **deadline** to submit your task and application is **11:59pm, December 17, 2017.** 
+The **deadline** to submit your task and application is **May 06, 2018, Midnight.** 
 
 Good luck!
