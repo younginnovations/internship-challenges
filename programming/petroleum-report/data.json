@@ -1,0 +1,602 @@
+[
+  {
+    "year": "2014",
+    "petroleum_product": "Petrol",
+    "sale": 283567
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Diesel",
+    "sale": 901393
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Kerosene",
+    "sale": 18628
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 139404
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 0
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Furnace Oil",
+    "sale": 0
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "LPG in MT",
+    "sale": 258299
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Petrol",
+    "sale": 251451
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Diesel",
+    "sale": 811100
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Kerosene",
+    "sale": 19064
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 123527
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 0
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Furnace Oil",
+    "sale": 0
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "LPG in MT",
+    "sale": 232660
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Petrol",
+    "sale": 221676
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Diesel",
+    "sale": 716747
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Kerosene",
+    "sale": 24721
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 115786
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 258
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Furnace Oil",
+    "sale": 2450
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "LPG in MT",
+    "sale": 207038
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Petrol",
+    "sale": 199749
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Diesel",
+    "sale": 648513
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Kerosene",
+    "sale": 41808
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 109808
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 0
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Furnace Oil",
+    "sale": 435
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "LPG in MT",
+    "sale": 181411
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Petrol",
+    "sale": 187641
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Diesel",
+    "sale": 655128
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Kerosene",
+    "sale": 49495
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 101314
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 227
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Furnace Oil",
+    "sale": 1415
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "LPG in MT",
+    "sale": 159286
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Petrol",
+    "sale": 162275
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Diesel",
+    "sale": 612505
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Kerosene",
+    "sale": 55788
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 82631
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 238
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Furnace Oil",
+    "sale": 2589
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "LPG in MT",
+    "sale": 141171
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Petrol",
+    "sale": 124169
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Diesel",
+    "sale": 446468
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Kerosene",
+    "sale": 70089
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 68935
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 377
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Furnace Oil",
+    "sale": 2171
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "LPG in MT",
+    "sale": 115813
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2007",
+    "petroleum_product": "Petrol",
+    "sale": 100842
+  },
+  {
+    "year": "2007",
+    "petroleum_product": "Diesel",
+    "sale": 302706
+  },
+  {
+    "year": "2007",
+    "petroleum_product": "Kerosene",
+    "sale": 155216
+  },
+  {
+    "year": "2007",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 68938
+  },
+  {
+    "year": "2007",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 306
+  },
+  {
+    "year": "2007",
+    "petroleum_product": "Furnace Oil",
+    "sale": 2919
+  },
+  {
+    "year": "2007",
+    "petroleum_product": "LPG in MT",
+    "sale": 96837
+  },
+  {
+    "year": "2007",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2006",
+    "petroleum_product": "Petrol",
+    "sale": 101912
+  },
+  {
+    "year": "2006",
+    "petroleum_product": "Diesel",
+    "sale": 306687
+  },
+  {
+    "year": "2006",
+    "petroleum_product": "Kerosene",
+    "sale": 197850
+  },
+  {
+    "year": "2006",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 63778
+  },
+  {
+    "year": "2006",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 179
+  },
+  {
+    "year": "2006",
+    "petroleum_product": "Furnace Oil",
+    "sale": 4558
+  },
+  {
+    "year": "2006",
+    "petroleum_product": "LPG in MT",
+    "sale": 93562
+  },
+  {
+    "year": "2006",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2005",
+    "petroleum_product": "Petrol",
+    "sale": 80989
+  },
+  {
+    "year": "2005",
+    "petroleum_product": "Diesel",
+    "sale": 294329
+  },
+  {
+    "year": "2005",
+    "petroleum_product": "Kerosene",
+    "sale": 226637
+  },
+  {
+    "year": "2005",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 64335
+  },
+  {
+    "year": "2005",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 290
+  },
+  {
+    "year": "2005",
+    "petroleum_product": "Furnace Oil",
+    "sale": 3695
+  },
+  {
+    "year": "2005",
+    "petroleum_product": "LPG in MT",
+    "sale": 81005
+  },
+  {
+    "year": "2005",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2004",
+    "petroleum_product": "Petrol",
+    "sale": 75989
+  },
+  {
+    "year": "2004",
+    "petroleum_product": "Diesel",
+    "sale": 315368
+  },
+  {
+    "year": "2004",
+    "petroleum_product": "Kerosene",
+    "sale": 239328
+  },
+  {
+    "year": "2004",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 66825
+  },
+  {
+    "year": "2004",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 88
+  },
+  {
+    "year": "2004",
+    "petroleum_product": "Furnace Oil",
+    "sale": 2696
+  },
+  {
+    "year": "2004",
+    "petroleum_product": "LPG in MT",
+    "sale": 77594
+  },
+  {
+    "year": "2004",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0
+  },
+  {
+    "year": "2003",
+    "petroleum_product": "Petrol",
+    "sale": 67586
+  },
+  {
+    "year": "2003",
+    "petroleum_product": "Diesel",
+    "sale": 299730
+  },
+  {
+    "year": "2003",
+    "petroleum_product": "Kerosene",
+    "sale": 310826
+  },
+  {
+    "year": "2003",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 64041
+  },
+  {
+    "year": "2003",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 577
+  },
+  {
+    "year": "2003",
+    "petroleum_product": "Furnace Oil",
+    "sale": 12653
+  },
+  {
+    "year": "2003",
+    "petroleum_product": "LPG in MT",
+    "sale": 66142
+  },
+  {
+    "year": "2003",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 36
+  },
+  {
+    "year": "2002",
+    "petroleum_product": "Petrol",
+    "sale": 67457
+  },
+  {
+    "year": "2002",
+    "petroleum_product": "Diesel",
+    "sale": 299973
+  },
+  {
+    "year": "2002",
+    "petroleum_product": "Kerosene",
+    "sale": 348620
+  },
+  {
+    "year": "2002",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 52839
+  },
+  {
+    "year": "2002",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 610
+  },
+  {
+    "year": "2002",
+    "petroleum_product": "Furnace Oil",
+    "sale": 14496
+  },
+  {
+    "year": "2002",
+    "petroleum_product": "LPG in MT",
+    "sale": 56079
+  },
+  {
+    "year": "2002",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 48
+  },
+  {
+    "year": "2001",
+    "petroleum_product": "Petrol",
+    "sale": 63271
+  },
+  {
+    "year": "2001",
+    "petroleum_product": "Diesel",
+    "sale": 286233
+  },
+  {
+    "year": "2001",
+    "petroleum_product": "Kerosene",
+    "sale": 386592
+  },
+  {
+    "year": "2001",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 47453
+  },
+  {
+    "year": "2001",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 2413
+  },
+  {
+    "year": "2001",
+    "petroleum_product": "Furnace Oil",
+    "sale": 18255
+  },
+  {
+    "year": "2001",
+    "petroleum_product": "LPG in MT",
+    "sale": 48757
+  },
+  {
+    "year": "2001",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 120
+  },
+  {
+    "year": "2000",
+    "petroleum_product": "Petrol",
+    "sale": 59245
+  },
+  {
+    "year": "2000",
+    "petroleum_product": "Diesel",
+    "sale": 326060
+  },
+  {
+    "year": "2000",
+    "petroleum_product": "Kerosene",
+    "sale": 316381
+  },
+  {
+    "year": "2000",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 63131
+  },
+  {
+    "year": "2000",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 3416
+  },
+  {
+    "year": "2000",
+    "petroleum_product": "Furnace Oil",
+    "sale": 20934
+  },
+  {
+    "year": "2000",
+    "petroleum_product": "LPG in MT",
+    "sale": 40102
+  },
+  {
+    "year": "2000",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 132
+  }
+]
