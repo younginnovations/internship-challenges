@@ -13,8 +13,9 @@
 
 Implement a simple listing and detail showcase application using the following APIs:
 
-* For listing: https://jsonplaceholder.typicode.com/posts/
-* For details: https://jsonplaceholder.typicode.com/posts/{id}/comments
+* For user listing: https://jsonplaceholder.typicode.com/users/
+* For user posts list: https://jsonplaceholder.typicode.com/users/{user_id}/posts
+* For post comments: https://jsonplaceholder.typicode.com/posts/{post_id}/comments
 
 Checkout [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for more details.
 
@@ -37,3 +38,13 @@ Design is important, but can be designed as you wish.
 * If you write a readme file which contains screenshots and a short description of your application.
 
 
+#### Extra features
+These are optional features. Implementing them will give you extra points.
+
+* Fetch the users albums and photos.
+    * https://jsonplaceholder.typicode.com/users/{user_id}/albums
+    * https://jsonplaceholder.typicode.com/albums/{album_id}/photos
+* The posts, albums and todos should be either in Tabs or BottomNavigation.
+* Implement add, delete, update of todos for user.
+
+* https://jsonplaceholder.typicode.com/guide.html
