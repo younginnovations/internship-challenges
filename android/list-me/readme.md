@@ -45,7 +45,7 @@ Once loaded, the data (both listing and detail) should persist. Any persistence 
 #### Criteria for judgement
 * Object Oriented approach used in project.
 * Proper use of naming conventions for Widgets, files, function.
-* Proper code and widget seperation and use of widgets.
+* Proper code and widget separation and use of widgets.
 
 #### Bonus points
 * proper state management
