@@ -15,10 +15,11 @@
 - Store the response data into a **sqlite** database. 
 	- (bonus point) Normalize the data and store into relational structure
 	- (bonus point) Fetch the data from the newly stored sqlite database
-- Generate report showing **min**, **max** and **average** Sale of each Petroleum Product for 5 years interval
-- Write a **cli** application to above achieve solution
+- Generate report showing **min**, **max** and **average** Sale of each Petroleum Product for 5 years interval.
+- Write a **cli** OR **web** application to above achieve solution.
 - Please omit the ‘0’ values when calculating average and minimum value of the product.
 
+##### For CLI application 
 In php,
 `php report.php`
 
@@ -28,7 +29,13 @@ In python,
 In node,
 `node report.js`
 
-Running the above command should give the following tabular output in the cli:
+
+##### For Web application 
+- The page should be viewable on a web browser from any url, hosted locally using native built-in web server or apache or nginx.
+- Or, you could host your application on Cloud applicaiton platform provider like [Heroku](https://devcenter.heroku.com/start) and send us the link.
+
+
+The final solution output should be:
 
 |        Product         |    Year   |  Min   |  Max   |        Avg         |
 |------------------------|-----------|--------|--------|--------------------|
@@ -62,8 +69,6 @@ Running the above command should give the following tabular output in the cli:
 ### Bonus points
 
 * If you can write and include unit tests for your code.
-* If you write readme files with the instructions necessary to run the code
+* If you write readme files with the instructions necessary to run the code.
 
 Note: If you are creating a separate class file, your class filename should be "reportgenerator.php", "reportgenerator.py" and so on for other languages.
-
-
