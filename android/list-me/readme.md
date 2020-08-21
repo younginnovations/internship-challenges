@@ -48,8 +48,8 @@ Once loaded, the data (both listing and detail) should persist. Any persistence 
 * Proper code and widget separation and use of widgets.
 
 #### Bonus points
-* proper state management
-* use of proper animations.
+* Proper state management
+* Use of proper animations.
 * If you write a readme file which contains screenshots and a short description of your application.
 * Use of 3rd party libraries meaningfully.
 
