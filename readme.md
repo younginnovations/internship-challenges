@@ -20,6 +20,6 @@ If we find that an applicant has copied from someone (who has also submitted an 
 
 The **deadline** to submit your task and application is **15th Sept 2020, Midnight** 
 
-If you  nailed the solution, you will hear from us by or before Jan 12, 2020. If you don't hear from us by then, thank you for your time, but you won't be moving to the next stage of  our internship application process. 
+If you  nailed the solution, you will hear from us by or before 15th Sept 2020, Midnight. If you don't hear from us by then, thank you for your time, but you won't be moving to the next stage of  our internship application process. 
 
 Good luck!
