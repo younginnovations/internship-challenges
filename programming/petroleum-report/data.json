@@ -1,602 +1,1537 @@
-[
-  {
+[{
     "year": "2014",
     "petroleum_product": "Petrol",
-    "sale": 283567
+    "sale": 283567,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2014",
     "petroleum_product": "Diesel",
-    "sale": 901393
+    "sale": 901393,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2014",
     "petroleum_product": "Kerosene",
-    "sale": 18628
+    "sale": 18628,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2014",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 139404
+    "sale": 139404,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2014",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 0
+    "sale": 0,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2014",
     "petroleum_product": "Furnace Oil",
-    "sale": 0
+    "sale": 0,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2014",
     "petroleum_product": "LPG in MT",
-    "sale": 258299
+    "sale": 258299,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2014",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 0,
+    "country": "Saudi Arabia"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Petrol",
+    "sale": 183567,
+    "country": "Isereal"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Diesel",
+    "sale": 201393,
+    "country": "Isereal"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Kerosene",
+    "sale": 38628,
+    "country": "Isereal"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 144677,
+    "country": "Isereal"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Furnace Oil",
+    "sale": 443673,
+    "country": "Isereal"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Petrol",
+    "sale": 483567,
+    "country": "USA"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Diesel",
+    "sale": 101393,
+    "country": "USA"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Kerosene",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 12628,
+    "country": "USA"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 144657,
+    "country": "USA"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Furnace Oil",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "LPG in MT",
+    "sale": 143273,
+    "country": "USA"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Petrol",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Diesel",
+    "sale": 151393,
+    "country": "Russia"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Kerosene",
+    "sale": 454393,
+    "country": "Russia"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 32628,
+    "country": "Russia"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Furnace Oil",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2014",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 401394,
+    "country": "Russia"
   },
   {
     "year": "2013",
     "petroleum_product": "Petrol",
-    "sale": 251451
+    "sale": 123562,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2013",
     "petroleum_product": "Diesel",
-    "sale": 811100
+    "sale": 701393,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2013",
     "petroleum_product": "Kerosene",
-    "sale": 19064
+    "sale": 28628,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2013",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 123527
+    "sale": 239404,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2013",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 0
+    "sale": 1000,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2013",
     "petroleum_product": "Furnace Oil",
-    "sale": 0
+    "sale": 0,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2013",
     "petroleum_product": "LPG in MT",
-    "sale": 232660
+    "sale": 158299,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2013",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 0,
+    "country": "Saudi Arabia"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Petrol",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Diesel",
+    "sale": 401493,
+    "country": "Isereal"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Kerosene",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 28614,
+    "country": "Isereal"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 184677,
+    "country": "Isereal"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Furnace Oil",
+    "sale": 243673,
+    "country": "Isereal"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 12347,
+    "country": "Isereal"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Petrol",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Diesel",
+    "sale": 201493,
+    "country": "USA"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Kerosene",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 12658,
+    "country": "USA"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Furnace Oil",
+    "sale": 45623,
+    "country": "USA"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "LPG in MT",
+    "sale": 243273,
+    "country": "USA"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Petrol",
+    "sale": 65321,
+    "country": "Russia"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Diesel",
+    "sale": 251393,
+    "country": "Russia"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Kerosene",
+    "sale": 354393,
+    "country": "Russia"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 52628,
+    "country": "Russia"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 23415,
+    "country": "Russia"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Furnace Oil",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2013",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 101394,
+    "country": "Russia"
   },
   {
     "year": "2012",
     "petroleum_product": "Petrol",
-    "sale": 221676
+    "sale": 13562,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2012",
     "petroleum_product": "Diesel",
-    "sale": 716747
+    "sale": 201393,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2012",
     "petroleum_product": "Kerosene",
-    "sale": 24721
+    "sale": 128628,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2012",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 115786
+    "sale": 439404,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2012",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 258
+    "sale": 101230,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2012",
     "petroleum_product": "Furnace Oil",
-    "sale": 2450
+    "sale": 0,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2012",
     "petroleum_product": "LPG in MT",
-    "sale": 207038
+    "sale": 0,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2012",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 41244,
+    "country": "Saudi Arabia"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Petrol",
+    "sale": 53214,
+    "country": "Isereal"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Diesel",
+    "sale": 101493,
+    "country": "Isereal"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Kerosene",
+    "sale": 76523,
+    "country": "Isereal"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 384677,
+    "country": "Isereal"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Furnace Oil",
+    "sale": 143673,
+    "country": "Isereal"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 132347,
+    "country": "Isereal"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Petrol",
+    "sale": 13478,
+    "country": "USA"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Diesel",
+    "sale": 10873,
+    "country": "USA"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Kerosene",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 53134,
+    "country": "USA"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Furnace Oil",
+    "sale": 45627,
+    "country": "USA"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 23273,
+    "country": "USA"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Petrol",
+    "sale": 35321,
+    "country": "Russia"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Diesel",
+    "sale": 151393,
+    "country": "Russia"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Kerosene",
+    "sale": 454393,
+    "country": "Russia"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 13415,
+    "country": "Russia"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Furnace Oil",
+    "sale": 44312,
+    "country": "Russia"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2012",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0,
+    "country": "Russia"
   },
   {
     "year": "2011",
     "petroleum_product": "Petrol",
-    "sale": 199749
+    "sale": 13782,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2011",
     "petroleum_product": "Diesel",
-    "sale": 648513
+    "sale": 207823,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2011",
     "petroleum_product": "Kerosene",
-    "sale": 41808
+    "sale": 127828,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2011",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 109808
+    "sale": 437824,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2011",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 0
+    "sale": 107820,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2011",
     "petroleum_product": "Furnace Oil",
-    "sale": 435
+    "sale": 0,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2011",
     "petroleum_product": "LPG in MT",
-    "sale": 181411
+    "sale": 18233,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2011",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 41782,
+    "country": "Saudi Arabia"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Petrol",
+    "sale": 53782,
+    "country": "Isereal"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Diesel",
+    "sale": 107823,
+    "country": "Isereal"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Kerosene",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 36782,
+    "country": "Isereal"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 187827,
+    "country": "Isereal"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Furnace Oil",
+    "sale": 147823,
+    "country": "Isereal"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 137827,
+    "country": "Isereal"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Petrol",
+    "sale": 13782,
+    "country": "USA"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Diesel",
+    "sale": 10782,
+    "country": "USA"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Kerosene",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 78233,
+    "country": "USA"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 53782,
+    "country": "USA"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Furnace Oil",
+    "sale": 45782,
+    "country": "USA"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "LPG in MT",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 23782,
+    "country": "USA"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Petrol",
+    "sale": 35782,
+    "country": "Russia"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Diesel",
+    "sale": 157823,
+    "country": "Russia"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Kerosene",
+    "sale": 457823,
+    "country": "Russia"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 0,
+    "country": "Russia"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 13782,
+    "country": "Russia"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Furnace Oil",
+    "sale": 44782,
+    "country": "Russia"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "LPG in MT",
+    "sale": 18245,
+    "country": "Russia"
+  },
+  {
+    "year": "2011",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 0,
+    "country": "Russia"
   },
   {
     "year": "2010",
     "petroleum_product": "Petrol",
-    "sale": 187641
+    "sale": 32642,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2010",
     "petroleum_product": "Diesel",
-    "sale": 655128
+    "sale": 23642,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2010",
     "petroleum_product": "Kerosene",
-    "sale": 49495
+    "sale": 128642,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2010",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 101314
+    "sale": 478242,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2010",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 227
+    "sale": 178264,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2010",
     "petroleum_product": "Furnace Oil",
-    "sale": 1415
+    "sale": 49876,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2010",
     "petroleum_product": "LPG in MT",
-    "sale": 159286
+    "sale": 823642,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2010",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 0,
+    "country": "Saudi Arabia"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Petrol",
+    "sale": 537826,
+    "country": "Isereal"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Diesel",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Kerosene",
+    "sale": 32642,
+    "country": "Isereal"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 656422,
+    "country": "Isereal"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 72764,
+    "country": "Isereal"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Furnace Oil",
+    "sale": 0,
+    "country": "Isereal"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "LPG in MT",
+    "sale": 82423,
+    "country": "Isereal"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 137852,
+    "country": "Isereal"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Petrol",
+    "sale": 444123,
+    "country": "USA"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Diesel",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Kerosene",
+    "sale": 23673,
+    "country": "USA"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 0,
+    "country": "USA"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 782642,
+    "country": "USA"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Furnace Oil",
+    "sale": 452642,
+    "country": "USA"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "LPG in MT",
+    "sale": 12354,
+    "country": "USA"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 232642,
+    "country": "USA"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Petrol",
+    "sale": 178242,
+    "country": "Russia"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Diesel",
+    "sale": 33642,
+    "country": "Russia"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Kerosene",
+    "sale": 823642,
+    "country": "Russia"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 76523,
+    "country": "Russia"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 132642,
+    "country": "Russia"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Furnace Oil",
+    "sale": 782642,
+    "country": "Russia"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "LPG in MT",
+    "sale": 246424,
+    "country": "Russia"
+  },
+  {
+    "year": "2010",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 123127,
+    "country": "Russia"
   },
   {
     "year": "2009",
     "petroleum_product": "Petrol",
-    "sale": 162275
+    "sale": 132424,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2009",
     "petroleum_product": "Diesel",
-    "sale": 612505
+    "sale": 223424,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2009",
     "petroleum_product": "Kerosene",
-    "sale": 55788
+    "sale": 128424,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2009",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 82631
+    "sale": 43724,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2009",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 238
+    "sale": 53123,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2009",
     "petroleum_product": "Furnace Oil",
-    "sale": 2589
+    "sale": 455524,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2009",
     "petroleum_product": "LPG in MT",
-    "sale": 141171
+    "sale": 20024,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2009",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 71424,
+    "country": "Saudi Arabia"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Petrol",
+    "sale": 57424,
+    "country": "Isereal"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Diesel",
+    "sale": 61424,
+    "country": "Isereal"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Kerosene",
+    "sale": 32424,
+    "country": "Isereal"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 654242,
+    "country": "Isereal"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 727427,
+    "country": "Isereal"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Furnace Oil",
+    "sale": 237812,
+    "country": "Isereal"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "LPG in MT",
+    "sale": 84243,
+    "country": "Isereal"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 137024,
+    "country": "Isereal"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Petrol",
+    "sale": 76123,
+    "country": "USA"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Diesel",
+    "sale": 51008,
+    "country": "USA"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Kerosene",
+    "sale": 32424,
+    "country": "USA"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 214249,
+    "country": "USA"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 782424,
+    "country": "USA"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Furnace Oil",
+    "sale": 465424,
+    "country": "USA"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "LPG in MT",
+    "sale": 237865,
+    "country": "USA"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 232424,
+    "country": "USA"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Petrol",
+    "sale": 57844,
+    "country": "Russia"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Diesel",
+    "sale": 33424,
+    "country": "Russia"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Kerosene",
+    "sale": 823424,
+    "country": "Russia"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 314246,
+    "country": "Russia"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 402024,
+    "country": "Russia"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Furnace Oil",
+    "sale": 282424,
+    "country": "Russia"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "LPG in MT",
+    "sale": 98123,
+    "country": "Russia"
+  },
+  {
+    "year": "2009",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 63424,
+    "country": "Russia"
   },
   {
     "year": "2008",
     "petroleum_product": "Petrol",
-    "sale": 124169
+    "sale": 169474,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2008",
     "petroleum_product": "Diesel",
-    "sale": 446468
+    "sale": 103724,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2008",
     "petroleum_product": "Kerosene",
-    "sale": 70089
+    "sale": 298724,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2008",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 68935
+    "sale": 871234,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2008",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 377
+    "sale": 42356,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2008",
     "petroleum_product": "Furnace Oil",
-    "sale": 2171
+    "sale": 129574,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2008",
     "petroleum_product": "LPG in MT",
-    "sale": 115813
+    "sale": 19474,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2008",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 121927,
+    "country": "Saudi Arabia"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Petrol",
+    "sale": 31145,
+    "country": "Isereal"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Diesel",
+    "sale": 33213,
+    "country": "Isereal"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Kerosene",
+    "sale": 51209,
+    "country": "Isereal"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 15922,
+    "country": "Isereal"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 329474,
+    "country": "Isereal"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Furnace Oil",
+    "sale": 12355,
+    "country": "Isereal"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "LPG in MT",
+    "sale": 139872,
+    "country": "Isereal"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 76123,
+    "country": "Isereal"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Petrol",
+    "sale": 600189,
+    "country": "USA"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Diesel",
+    "sale": 213927,
+    "country": "USA"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Kerosene",
+    "sale": 119273,
+    "country": "USA"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 123673,
+    "country": "USA"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 159474,
+    "country": "USA"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Furnace Oil",
+    "sale": 342927,
+    "country": "USA"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "LPG in MT",
+    "sale": 125270,
+    "country": "USA"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 130474,
+    "country": "USA"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Petrol",
+    "sale": 12375,
+    "country": "Russia"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Diesel",
+    "sale": 243927,
+    "country": "Russia"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Kerosene",
+    "sale": 332944,
+    "country": "Russia"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Aviation Turbine Fuel",
+    "sale": 49087,
+    "country": "Russia"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Light Diesel Oil",
+    "sale": 139474,
+    "country": "Russia"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Furnace Oil",
+    "sale": 189474,
+    "country": "Russia"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "LPG in MT",
+    "sale": 17809,
+    "country": "Russia"
+  },
+  {
+    "year": "2008",
+    "petroleum_product": "Mineral Turpentine Oil",
+    "sale": 129474,
+    "country": "Russia"
   },
   {
     "year": "2007",
     "petroleum_product": "Petrol",
-    "sale": 100842
+    "sale": 94732,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2007",
     "petroleum_product": "Diesel",
-    "sale": 302706
+    "sale": 27232,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2007",
     "petroleum_product": "Kerosene",
-    "sale": 155216
+    "sale": 987232,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2007",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 68938
+    "sale": 123356,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2007",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 306
+    "sale": 0,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2007",
     "petroleum_product": "Furnace Oil",
-    "sale": 2919
+    "sale": 95732,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2007",
     "petroleum_product": "LPG in MT",
-    "sale": 96837
+    "sale": 84732,
+    "country": "Saudi Arabia"
   },
   {
     "year": "2007",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 0,
+    "country": "Saudi Arabia"
   },
   {
-    "year": "2006",
+    "year": "2007",
     "petroleum_product": "Petrol",
-    "sale": 101912
+    "sale": 43122,
+    "country": "Isereal"
   },
   {
-    "year": "2006",
+    "year": "2007",
     "petroleum_product": "Diesel",
-    "sale": 306687
+    "sale": 12132,
+    "country": "Isereal"
   },
   {
-    "year": "2006",
+    "year": "2007",
     "petroleum_product": "Kerosene",
-    "sale": 197850
+    "sale": 0,
+    "country": "Isereal"
   },
   {
-    "year": "2006",
+    "year": "2007",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 63778
+    "sale": 59232,
+    "country": "Isereal"
   },
   {
-    "year": "2006",
+    "year": "2007",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 179
+    "sale": 29472,
+    "country": "Isereal"
   },
   {
-    "year": "2006",
+    "year": "2007",
     "petroleum_product": "Furnace Oil",
-    "sale": 4558
+    "sale": 43187,
+    "country": "Isereal"
   },
   {
-    "year": "2006",
+    "year": "2007",
     "petroleum_product": "LPG in MT",
-    "sale": 93562
+    "sale": 0,
+    "country": "Isereal"
   },
   {
-    "year": "2006",
+    "year": "2007",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 3612,
+    "country": "Isereal"
   },
   {
-    "year": "2005",
+    "year": "2007",
     "petroleum_product": "Petrol",
-    "sale": 80989
+    "sale": 0,
+    "country": "USA"
   },
   {
-    "year": "2005",
+    "year": "2007",
     "petroleum_product": "Diesel",
-    "sale": 294329
+    "sale": 13922,
+    "country": "USA"
   },
   {
-    "year": "2005",
+    "year": "2007",
     "petroleum_product": "Kerosene",
-    "sale": 226637
+    "sale": 92701,
+    "country": "USA"
   },
   {
-    "year": "2005",
+    "year": "2007",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 64335
+    "sale": 0,
+    "country": "USA"
   },
   {
-    "year": "2005",
+    "year": "2007",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 290
+    "sale": 294732,
+    "country": "USA"
   },
   {
-    "year": "2005",
+    "year": "2007",
     "petroleum_product": "Furnace Oil",
-    "sale": 3695
+    "sale": 129232,
+    "country": "USA"
   },
   {
-    "year": "2005",
+    "year": "2007",
     "petroleum_product": "LPG in MT",
-    "sale": 81005
+    "sale": 527032,
+    "country": "USA"
   },
   {
-    "year": "2005",
+    "year": "2007",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
+    "sale": 0,
+    "country": "USA"
   },
   {
-    "year": "2004",
+    "year": "2007",
     "petroleum_product": "Petrol",
-    "sale": 75989
+    "sale": 22232,
+    "country": "Russia"
   },
   {
-    "year": "2004",
+    "year": "2007",
     "petroleum_product": "Diesel",
-    "sale": 315368
+    "sale": 9232,
+    "country": "Russia"
   },
   {
-    "year": "2004",
+    "year": "2007",
     "petroleum_product": "Kerosene",
-    "sale": 239328
+    "sale": 9432,
+    "country": "Russia"
   },
   {
-    "year": "2004",
+    "year": "2007",
     "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 66825
+    "sale": 0,
+    "country": "Russia"
   },
   {
-    "year": "2004",
+    "year": "2007",
     "petroleum_product": "Light Diesel Oil",
-    "sale": 88
+    "sale": 294732,
+    "country": "Russia"
   },
   {
-    "year": "2004",
+    "year": "2007",
     "petroleum_product": "Furnace Oil",
-    "sale": 2696
+    "sale": 194732,
+    "country": "Russia"
   },
   {
-    "year": "2004",
+    "year": "2007",
     "petroleum_product": "LPG in MT",
-    "sale": 77594
+    "sale": 29473,
+    "country": "Russia"
   },
   {
-    "year": "2004",
+    "year": "2007",
     "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 0
-  },
-  {
-    "year": "2003",
-    "petroleum_product": "Petrol",
-    "sale": 67586
-  },
-  {
-    "year": "2003",
-    "petroleum_product": "Diesel",
-    "sale": 299730
-  },
-  {
-    "year": "2003",
-    "petroleum_product": "Kerosene",
-    "sale": 310826
-  },
-  {
-    "year": "2003",
-    "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 64041
-  },
-  {
-    "year": "2003",
-    "petroleum_product": "Light Diesel Oil",
-    "sale": 577
-  },
-  {
-    "year": "2003",
-    "petroleum_product": "Furnace Oil",
-    "sale": 12653
-  },
-  {
-    "year": "2003",
-    "petroleum_product": "LPG in MT",
-    "sale": 66142
-  },
-  {
-    "year": "2003",
-    "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 36
-  },
-  {
-    "year": "2002",
-    "petroleum_product": "Petrol",
-    "sale": 67457
-  },
-  {
-    "year": "2002",
-    "petroleum_product": "Diesel",
-    "sale": 299973
-  },
-  {
-    "year": "2002",
-    "petroleum_product": "Kerosene",
-    "sale": 348620
-  },
-  {
-    "year": "2002",
-    "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 52839
-  },
-  {
-    "year": "2002",
-    "petroleum_product": "Light Diesel Oil",
-    "sale": 610
-  },
-  {
-    "year": "2002",
-    "petroleum_product": "Furnace Oil",
-    "sale": 14496
-  },
-  {
-    "year": "2002",
-    "petroleum_product": "LPG in MT",
-    "sale": 56079
-  },
-  {
-    "year": "2002",
-    "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 48
-  },
-  {
-    "year": "2001",
-    "petroleum_product": "Petrol",
-    "sale": 63271
-  },
-  {
-    "year": "2001",
-    "petroleum_product": "Diesel",
-    "sale": 286233
-  },
-  {
-    "year": "2001",
-    "petroleum_product": "Kerosene",
-    "sale": 386592
-  },
-  {
-    "year": "2001",
-    "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 47453
-  },
-  {
-    "year": "2001",
-    "petroleum_product": "Light Diesel Oil",
-    "sale": 2413
-  },
-  {
-    "year": "2001",
-    "petroleum_product": "Furnace Oil",
-    "sale": 18255
-  },
-  {
-    "year": "2001",
-    "petroleum_product": "LPG in MT",
-    "sale": 48757
-  },
-  {
-    "year": "2001",
-    "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 120
-  },
-  {
-    "year": "2000",
-    "petroleum_product": "Petrol",
-    "sale": 59245
-  },
-  {
-    "year": "2000",
-    "petroleum_product": "Diesel",
-    "sale": 326060
-  },
-  {
-    "year": "2000",
-    "petroleum_product": "Kerosene",
-    "sale": 316381
-  },
-  {
-    "year": "2000",
-    "petroleum_product": "Aviation Turbine Fuel",
-    "sale": 63131
-  },
-  {
-    "year": "2000",
-    "petroleum_product": "Light Diesel Oil",
-    "sale": 3416
-  },
-  {
-    "year": "2000",
-    "petroleum_product": "Furnace Oil",
-    "sale": 20934
-  },
-  {
-    "year": "2000",
-    "petroleum_product": "LPG in MT",
-    "sale": 40102
-  },
-  {
-    "year": "2000",
-    "petroleum_product": "Mineral Turpentine Oil",
-    "sale": 132
+    "sale": 0,
+    "country": "Russia"
   }
 ]

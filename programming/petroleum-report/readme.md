@@ -11,13 +11,45 @@
 
 #### Problem
 
-- Fetch data for Petroleum Products from the data.json file using an **API call**. API endpoint [https://raw.githubusercontent.com/younginnovations/internship-challenges/master/programming/petroleum-report/data.json](https://raw.githubusercontent.com/younginnovations/internship-challenges/master/programming/petroleum-report/data.json)
-- Store the response data into a **sqlite** database. 
+- 1. Fetch data for Petroleum Products from the data.json file using an **API call**. API endpoint [https://raw.githubusercontent.com/younginnovations/internship-challenges/master/programming/petroleum-report/data.json](https://raw.githubusercontent.com/younginnovations/internship-challenges/master/programming/petroleum-report/data.json)
+- 2.Store the response data into a **sqlite** database. 
 	- (bonus point) Normalize the data and store into relational structure
 	- (bonus point) Fetch the data from the newly stored sqlite database
-- Generate report showing **min**, **max** and **average** Sale of each Petroleum Product for 5 years interval.
-- Write a **cli** OR **web** application to above achieve solution.
-- Please omit the ‘0’ values when calculating average and minimum value of the product.
+- 3. List overall sale of each petroleam product by country. Note: Do not count zero during average calulation
+- 4. List average sale of each petroleum  product for 2 years of interval
+- 5. At which year each petroleum product had the least sale. Note: Do not count zero as least sale
+- 6. Write a **cli** OR **web** application to above achieve solution.
+
+The solution output for **problem 4** should be something like this. Note the average calculation is fake:
+
+|        Product         |    Year   |      Avg         |
+|------------------------|-----------|------------------|
+|         Petrol         | 2010-2014 |    228816.8      |
+|         Petrol         | 2013-2014 |    114037.4      |
+|         Petrol         | 2011-2012 |    66709.6       |
+|         Petrol         | 2009-2010 |    66709.6       |
+|         Petrol         | 2007-2008 |    66709.6       |
+|         Diesel         | 2011-2012 |    746576.2      |
+|         Diesel         | 2009-2010 |     392539       |
+|         Diesel         | 2007-2008 |    305472.8      |
+|        Kerosene        | 2013-2014 |    30743.2       |
+|        Kerosene        | 2009-2010 |     141116       |
+|        Kerosene        | 2007-2008 |    320349.4      |
+| Aviation Turbine Fuel  | 2013-2014 |    117967.8      |
+| Aviation Turbine Fuel  | 2011-2012 |    69723.4       |
+| Aviation Turbine Fuel  | 2009-2010 |    58857.8       |
+|    Light Diesel Oil    | 2013-2014 |     242.5        |
+|    Light Diesel Oil    | 2011-2012 |      278         |
+|    Light Diesel Oil    | 2009-2010 |     1420.8       |
+|      Furnace Oil       | 2013-2014 |433.3333333333333 |
+|      Furnace Oil       | 2011-2012 |     3186.4       |
+|      Furnace Oil       | 2009-2010 |    13806.8       |
+|       LPG in MT        | 2013-2014 |    207738.8      |
+|       LPG in MT        | 2011-2012 |    105677.6      |
+|       LPG in MT        | 2009-2010 |    57734.8       |
+| Mineral Turpentine Oil | 2013-2014 |       0          |
+| Mineral Turpentine Oil | 2011-2012 |       0          |
+| Mineral Turpentine Oil | 2009-2010 |       84         |
 
 ##### For CLI application 
 In php,
@@ -35,40 +67,12 @@ In node,
 - Or, you could host your application on Cloud applicaiton platform provider like [Heroku](https://devcenter.heroku.com/start) and send us the link.
 
 
-The final solution output should be:
-
-|        Product         |    Year   |  Min   |  Max   |        Avg         |
-|------------------------|-----------|--------|--------|--------------------|
-|         Petrol         | 2010-2014 | 187641 | 283567 |      228816.8      |
-|         Petrol         | 2005-2009 | 80989  | 162275 |      114037.4      |
-|         Petrol         | 2000-2004 | 59245  | 75989  |      66709.6       |
-|         Diesel         | 2010-2014 | 648513 | 901393 |      746576.2      |
-|         Diesel         | 2005-2009 | 294329 | 612505 |       392539       |
-|         Diesel         | 2000-2004 | 286233 | 326060 |      305472.8      |
-|        Kerosene        | 2010-2014 | 18628  | 49495  |      30743.2       |
-|        Kerosene        | 2005-2009 | 55788  | 226637 |       141116       |
-|        Kerosene        | 2000-2004 | 239328 | 386592 |      320349.4      |
-| Aviation Turbine Fuel  | 2010-2014 | 101314 | 139404 |      117967.8      |
-| Aviation Turbine Fuel  | 2005-2009 | 63778  | 82631  |      69723.4       |
-| Aviation Turbine Fuel  | 2000-2004 | 47453  | 66825  |      58857.8       |
-|    Light Diesel Oil    | 2010-2014 |  227   |  258   |       242.5        |
-|    Light Diesel Oil    | 2005-2009 |  179   |  377   |        278         |
-|    Light Diesel Oil    | 2000-2004 |   88   |  3416  |       1420.8       |
-|      Furnace Oil       | 2010-2014 |  435   |  2450  | 1433.3333333333333 |
-|      Furnace Oil       | 2005-2009 |  2171  |  4558  |       3186.4       |
-|      Furnace Oil       | 2000-2004 |  2696  | 20934  |      13806.8       |
-|       LPG in MT        | 2010-2014 | 159286 | 258299 |      207738.8      |
-|       LPG in MT        | 2005-2009 | 81005  | 141171 |      105677.6      |
-|       LPG in MT        | 2000-2004 | 40102  | 77594  |      57734.8       |
-| Mineral Turpentine Oil | 2010-2014 |   0    |   0    |         0          |
-| Mineral Turpentine Oil | 2005-2009 |   0    |   0    |         0          |
-| Mineral Turpentine Oil | 2000-2004 |   36   |  132   |         84         |
-
-
 
 ### Bonus points
 
 * If you can write and include unit tests for your code.
 * If you write readme files with the instructions necessary to run the code.
+* Proper git commit message test and setup linter
+
 
 Note: If you are creating a separate class file, your class filename should be "reportgenerator.php", "reportgenerator.py" and so on for other languages.
