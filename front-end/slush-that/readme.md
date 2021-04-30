@@ -11,16 +11,14 @@
 
 #### Problem
 
-1. Send us an email at internship@yipl.com.np with the subject "Zeplin request for Internship Challenge" and wait for at least a day to hear from us.
-2. You'll receive an invite from a design tool called 'Zeplin'. To learn more about Zeplin, click here: https://zeplin.io/
-3. Using Zeplin, you'll be able to access and open a project called "Frontend Challenge"
-4. Once open, you'll  be able to see following screen: 
- - Landing Page
-5. Your assignment is to turn the "Landing Page" screen into an interactive web page using HTML/ CSS (if possible JS). 
+1. Open the Frontend Challenge UI using this [Figma link](https://www.figma.com/file/7k2KuhwIhElPmEw9UlROup/frontend-challenge_UI?node-id=0%3A1).
+2. Once open, you'll  be able to see following screen: 
+ - Home
+5. Your assignment is to turn the "Home" screen into an interactive web page using HTML/ CSS (if possible JS). 
 5. Upload the html/css/js file into your repo
 
 We'll be looking into following aspects of your assignment and using them as judging criteria:
-- How well the webpage you've made matches with the design file in Zeplin
+- How well the webpage you've made matches with the design file in Figma
 - The HTML/ CSS structure 
 - Use of proper tags
 - Naming convention of class names
