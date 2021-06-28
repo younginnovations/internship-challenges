@@ -1,4 +1,4 @@
-## YoungInnovations Internship Challenge 
+##Internship Challenge 
 
 **Please read the following instructions very carefully while working on the problem.**
 
@@ -6,9 +6,6 @@ Thank you for your interest in interning with us at YoungInnovations.
 
 Here are the list of the internship challenges. Please choose one of the following specialism areas below and complete the challenge. Pick the area in which you feel you are strongest and most accomplished.
 
-* [Backend Programming](https://github.com/younginnovations/internship-challenges/tree/master/programming/petroleum-report)
-* [Mobile App Development](https://github.com/younginnovations/internship-challenges/tree/master/android/list-me)
-* [Frontend Programming](https://github.com/younginnovations/internship-challenges/tree/master/front-end/slush-that)
 * [UI/UX Design](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform)
 
 After the completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application. 
