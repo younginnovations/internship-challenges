@@ -13,11 +13,16 @@
 
 Implement a simple listing and detail showcase application using the following APIs:
 
-* For user listing: https://jsonplaceholder.typicode.com/users/
-* For user posts list: https://jsonplaceholder.typicode.com/users/{user_id}/posts
-* For post comments: https://jsonplaceholder.typicode.com/posts/{post_id}/comments
+#### Tasks
 
-Checkout [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for more details.
+* A screen to list all the posts.
+   * https://jsonplaceholder.typicode.com/posts
+* A post detail screen which have list of comments.
+   * https://jsonplaceholder.typicode.com/posts/{post_id}/comments
+* Add new comment by using POST request to the api. You can use any static userId to make the request.
+   * https://jsonplaceholder.typicode.com/posts/{post_id}/comments
+
+Checkout [JSONPlaceholder](https://jsonplaceholder.typicode.com/) for more details and also use their [guide](https://jsonplaceholder.typicode.com/guide/).
 
 Once loaded, the data (both listing and detail) should persist. Any persistence mechanism can be used, i.e., cache or database. 
 #### NOTE
@@ -56,9 +61,13 @@ Once loaded, the data (both listing and detail) should persist. Any persistence 
 #### Extra features
 These are optional features. Implementing them will give you extra points.
 
-* Fetch the users albums and photos.
-    * https://jsonplaceholder.typicode.com/users/{user_id}/albums
-    * https://jsonplaceholder.typicode.com/albums/{album_id}/photos
+* Show list of users
+   * https://jsonplaceholder.typicode.com/users
+* Show the users posts, albums and photos.
+   * Posts: https://jsonplaceholder.typicode.com/users/{user_id}/posts
+   * Todos: https://jsonplaceholder.typicode.com/users/{user_id}/todos
+   * Albums: https://jsonplaceholder.typicode.com/users/{user_id}/albums
+   * Photos: https://jsonplaceholder.typicode.com/albums/{album_id}/photos
 * The posts, albums and todos should be either in Tabs or BottomNavigation.
 * Implement add, delete, update of todos for user.
 
