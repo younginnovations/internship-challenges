@@ -11,7 +11,9 @@ Here are the list of the internship challenges. Please choose one of the followi
 * [Mobile App Development](https://github.com/younginnovations/internship-challenges/tree/master/android/list-me)
 * [QA](https://github.com/younginnovations/internship-challenges/tree/master/qa/form-wrong)
 
-After the completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application. 
+For above areas, after the completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application.
+
+For the Recruiting Officer Intern Please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform)
 
 If you are able to complete the task fully, and the work is of good quality, we will progress you to the next round of the internship application process.
 
