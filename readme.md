@@ -13,7 +13,7 @@ Here are the list of the internship challenges. Please choose one of the followi
 
 For above areas, after the completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application.
 
-For the Recruiting Officer Intern Please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform)
+For the Recruiting Officer Intern, Just submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform)
 
 If you are able to complete the task fully, and the work is of good quality, we will progress you to the next round of the internship application process.
 
