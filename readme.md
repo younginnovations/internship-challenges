@@ -11,6 +11,7 @@ Here are the list of the internship challenges. Please choose one of the followi
 * [Mobile Programming](https://github.com/younginnovations/internship-challenges/tree/master/android/list-me)
 * [UI/UX Design](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform)
 * [QA](https://github.com/younginnovations/internship-challenges/tree/master/qa/form-wrong)
+* **For Recruiting officer, send you resume at careers@yipl.com.np**
 
 For above areas, after the completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application.
 
