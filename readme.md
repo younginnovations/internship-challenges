@@ -18,8 +18,8 @@ If you are able to complete the task fully, and the work is of good quality, we 
 
 If we find that an applicant has copied from someone (who has also submitted an application through the challenge), both applicants will be disqualified. At YoungInnovations, we believe in honesty and hard work, and most of all, in the power of learning.
 
-The **deadline** to submit your task and application is **7th August 2022, Midnight** 
+The **deadline** to submit your task and application is **21st August 2022, Midnight** 
 
-If you nailed the solution, you will hear from us by or before **15th August 2022**. If you don't hear from us by then, thank you for your time, but you won't be moving to the next stage of  our internship application process. 
+If you nailed the solution, you will hear from us by or before **31st August 2022**. If you don't hear from us by then, thank you for your time, but you won't be moving to the next stage of  our internship application process. 
 
 Good luck!
