@@ -11,7 +11,7 @@
 
 #### Problem
 
-1. Open the Frontend Challenge UI using this [Figma link](https://www.figma.com/file/OFPQV3Iz5Cgrij388jscvl/NGO-Distro-Challenge?node-id=0%3A1).
+1. Open the Frontend Challenge UI using this [Figma link](https://www.figma.com/file/Etjr8oSoRjcuHusrRcU7za/Front-End-Challenge?node-id=0%3A5&t=asqi3ObcKtaYQGKu-1).
 2. Once open, you'll  be able to see following screen: 
  - Home
 5. Your assignment is to turn the "Home" screen into an interactive web page using HTML/ CSS (if possible JS). 
