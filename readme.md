@@ -8,7 +8,8 @@ Here are the list of the internship challenges. Please choose one of the followi
 
 * [FrontEnd Programming](https://github.com/younginnovations/internship-challenges/tree/master/front-end/slush-that)
 * [QA](https://github.com/younginnovations/internship-challenges/tree/master/qa/technical-skills-assessment)
-* [Mobile Development (Flutter)](https://github.com/younginnovations/internship-challenges/tree/master/android/list-me)
+* [UI UX Design]()
+* [Backend Programming]()
 
 After completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application.
 
@@ -16,8 +17,8 @@ If you are able to complete the task fully, and the work is of good quality, we 
 
 If we find that an applicant has copied from someone (who has also submitted an application through the challenge), both applicants will be disqualified. At YoungInnovations, we believe in honesty and hard work, and most of all, in the power of learning.
 
-The **deadline** to submit your task and application is **28 Feb 2023, Midnight** 
+The **deadline** to submit your task and application is **12 May 2023, Midnight** 
 
-If you nailed the solution, you will hear from us by or before **17 March 2023**. If you don't hear from us by then, thank you for your time, but you won't be moving to the next stage of  our internship application process. 
+If you nailed the solution, you will hear from us by or before **31 May 2023**. If you don't hear from us by then, thank you for your time, but you won't be moving to the next stage of  our internship application process. 
 
 Good luck!
