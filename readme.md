@@ -9,6 +9,7 @@ Here are the list of the internship challenges. Please choose one of the followi
 * [FrontEnd Programming](https://github.com/younginnovations/internship-challenges/tree/master/front-end/slush-that)
 * [QA](https://github.com/younginnovations/internship-challenges/tree/master/qa/technical-skills-assessment)
 * [Backend Programming](https://github.com/younginnovations/internship-challenges/tree/master/programming/petroleum-report)
+* [Mobile Development (Flutter)](https://github.com/younginnovations/internship-challenges/tree/master/android/list-me)
 
 After completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application.
 
