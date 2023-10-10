@@ -27,7 +27,7 @@ Here is the feature story for the application. As a user, I would like to be abl
 Requirement:
 
 - Use Selenium with any language (JAVA prefered) to automate following cases: 
-- - [TestSite](https://practice-cybertekschool.herokuapp.com/)
+- - [TestSite](https://the-internet.herokuapp.com/)
 - Create driver setup and teardown function
 - Create function for each test cases
     
