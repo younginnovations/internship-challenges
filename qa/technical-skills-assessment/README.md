@@ -1,7 +1,7 @@
 # Technical Skills Assessment for Quality Assurance Officer 
 
 **Must Do: Test case**
-1. Let’s say you are in a team focused on building a time tracking software just like this one. https://tomato-timer.com/​ (Note: this is just the site for reference/visualization)
+1. Let’s say you are in a team focused on building a time tracking software just like this one. https://www.toptal.com/project-managers/tomato-timer​ (Note: this is just the site for reference/visualization)
 
 **Currently, a user can login, add an activity and start tracking the time right now.** As an QA officer for this project, you are required to prepare test case scenarios for a new feature. The feature is the introduction of a technique called **Pomodoro** within an already built start stop timer.
 
