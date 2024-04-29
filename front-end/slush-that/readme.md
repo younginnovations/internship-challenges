@@ -13,8 +13,8 @@
 
 1. Open the Frontend Challenge UI using this [Figma link](https://www.figma.com/file/XRnfVIsxJLoyJIzuUqQto0/Internship-Test---Frontend?type=design&mode=design).
 2. Once open, you'll  be able to see designs in the "Final" page of the Figma document
-5. Your assignment is to turn the given design into an interactive web page using HTML/ CSS (if possible JS). 
-5. Upload the html/css/js file into your repo
+3. Your assignment is to turn the given design into an interactive web page using HTML/ CSS (if possible JS). 
+4. Upload the html/css/js file into your repo
 
 We'll be looking into following aspects of your assignment and using them as judging criteria:
 - How well the webpage you've made matches with the design file in Figma
