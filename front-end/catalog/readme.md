@@ -11,10 +11,11 @@
 
 #### Problem
 
-1. Open the Frontend Challenge UI using this [Figma link](https://www.figma.com/file/XRnfVIsxJLoyJIzuUqQto0/Internship-Test---Frontend?type=design&node-id=0-1&mode=design).
+1.  Open the Frontend Challenge UI using this [Figma link](https://www.figma.com/file/XRnfVIsxJLoyJIzuUqQto0/Internship-Test---Frontend?type=design&node-id=0-1&mode=design).
 2. Once open, you'll  be able to see following screen: 
  - Homepage
-5. Your assignment is to turn the "Homepage" screen into an interactive web page using HTML/ CSS and JS. You also need to implement the dropdown menu and the popup searchbox. 
+3. Your assignment is to turn the "Homepage" screen into an interactive web page using HTML/ CSS and JS. You also need to implement the dropdown menu and the popup searchbox and carousel.
+4. Additionally, integrate the provided API endpoint to display news articles in the designated news section. Here's the endpoint - (https://raw.githubusercontent.com/younginnovations/internship-challenges/master/front-end/news_list.json)
 5. Upload the html/css/js file into your repo
 
 We'll be looking into following aspects of your assignment and using them as judging criteria:
@@ -25,5 +26,5 @@ We'll be looking into following aspects of your assignment and using them as jud
 - Use of shorthand properties
 - Folder structure
 - Responsiveness
-- CSS preprocessors (plus point)
-- CSS/ JS animations (plus point)
+- CSS preprocessors 
+- CSS/ JS animations 
