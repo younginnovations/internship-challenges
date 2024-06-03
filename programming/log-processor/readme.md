@@ -2,7 +2,7 @@
 
 ### What you need to do
 
-* If you haven’t already, take a [git class in codeschool](https://www.codeschool.com/courses/try-git).
+* If you haven’t already, take a [git class in codeschool](https://www.simplilearn.com/learn-git-basics-skillup).
 * Once complete, create a private repo called “yipl-log-processor” in [bitbucket](https://bitbucket.org)
 * Solve the problem detailed below
 * Push your code to the repo (make sure that you have multiple commits with proper messages) 
