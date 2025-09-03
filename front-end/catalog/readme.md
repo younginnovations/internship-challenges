@@ -18,13 +18,4 @@
 4. Additionally, integrate the provided API endpoint to display news articles in the designated news section. Here's the endpoint - (https://raw.githubusercontent.com/younginnovations/internship-challenges/master/front-end/news_list.json)
 5. Upload the html/css/js file into your repo
 
-We'll be looking into following aspects of your assignment and using them as judging criteria:
-- How well the webpage you've made matches with the design file in Figma
-- The HTML/ CSS structure 
-- Use of proper tags
-- Naming convention of class names
-- Use of shorthand properties
-- Folder structure
-- Responsiveness
-- CSS preprocessors 
-- CSS/ JS animations 
+The assignment will be evaluated based on adherence to proper coding standards and best practices. 
