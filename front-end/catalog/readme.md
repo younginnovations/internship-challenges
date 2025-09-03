@@ -11,7 +11,7 @@
 
 #### Problem
 
-1.  Open the Frontend Challenge UI using this [Figma link](https://www.figma.com/file/XRnfVIsxJLoyJIzuUqQto0/Internship-Test---Frontend?type=design&node-id=0-1&mode=design).
+1.  Open the Frontend Challenge UI using this [Figma link](https://www.figma.com/design/19wflb7mHrZVl9MbfO91PE/Internship-Test---Frontend?node-id=0-6720&t=hel7Pke3nMsU9e22-0).
 2. Once open, you'll  be able to see following screen: 
  - Homepage
 3. Your assignment is to turn the "Homepage" screen into an interactive web page using HTML/ CSS and JS. You also need to implement the dropdown menu and the popup searchbox and carousel.
