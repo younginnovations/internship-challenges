@@ -4,7 +4,7 @@
 >[!IMPORTANT]
 > ## What you need to do?
 > * If you haven’t already, take a [git class in codeschool](https://www.simplilearn.com/learn-git-basics-skillup).
-> * Once complete, create a private repo called “yipl-flutter-image-gallery”” in [bitbucket](https://bitbucket.org)
+> * Once complete, create a private repo called “yipl-mobile-image-gallery” in [bitbucket](https://bitbucket.org)
 > * Solve the problem detailed below
 > * Push your code to the repo (make sure that you have multiple commits with proper messages) 
 > * Invite internship-bitbucket@yipl.com.np to that particular private repo
@@ -38,11 +38,12 @@ Users can view photo details, mark photos as favorites, and access them offline.
    * If implementing image downloads, trigger the official `download_location` endpoint.  
    * Be mindful of Unsplash’s free rate limit (≈50 requests/hour).
 
-* Once loaded, the data (both listing and detail) should persist. Any persistence mechanism can be used, i.e., cache or database. 
-#### NOTE
-* You can build application using native android or Flutter.
-* Design is important, but can be designed as you wish.
-* Mention in README how to configure the Unsplash **Access Key**.
+
+
+>[!NOTE]
+> * You can build application using native android or Flutter.
+> * Design is important, but can be designed as you wish.
+> * Mention in README how to configure the Unsplash **Access Key** (Authorization header: `Client-ID <ACCESS_KEY>`).
 
 ### Android
 
@@ -72,16 +73,16 @@ Users can view photo details, mark photos as favorites, and access them offline.
 * Proper state management (e.g., Riverpod, Bloc).  
 * Use of proper animations or hero transitions.   
 * Use of 3rd party libraries meaningfully (e.g., Dio, cached_network_image, Drift/Hive).  
-* If you write a **README** file which contains screenshots and a short description of your application. 
 * Light/Dark Mode switch (with Material 3 dynamic colors)
-* Implementation of **search photos by keyword**.  
+* Implementation of **search photos by keyword**. 
+* Write a **README** file which contains screenshots and a short description of your application. 
 
 #### Extra features
 These are optional features. Implementing them will give you extra points.
 * Implementation of **topics filter** (e.g., “Nature”, “Wallpapers”). 
-* Use of Masonary Grid Layout 
+* Use of Masonry Grid Layout 
 * Download photo (and register via Unsplash download endpoint).
-* Photographer Profile Screen: show more photos by the same author.
+* Implementation of Show more photos by the same photographer.
 
 
 
