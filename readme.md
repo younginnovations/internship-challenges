@@ -7,9 +7,9 @@ Thank you for being so interested in interning with us at YoungInnovations.
 Here is the list of the internship challenges. Please choose one of the following specialism areas below and complete the challenge. Pick the area in which you feel you are strongest and most accomplished.
 
 * [FrontEnd Programming](https://github.com/younginnovations/internship-challenges/tree/master/front-end/catalog)
-* [BackEnd Programming](https://github.com/younginnovations/internship-challenges/blob/master/programming/event-management-app.md)
-* [QA](https://github.com/younginnovations/internship-challenges/tree/master/qa)
-* [DevOps](https://github.com/younginnovations/internship-challenges/tree/master/devops/docker-me)
+* [BackEnd Programming](https://github.com/younginnovations/internship-challenges/tree/master/programming/library-management)
+* [QA](https://github.com/younginnovations/internship-challenges/tree/master/qa/note-app)
+* [Mobile App Development](https://github.com/younginnovations/internship-challenges/blob/master/android/image-gallery/readme.md)
 
 After completion of the challenge, please submit your application from [here](https://docs.google.com/forms/d/e/1FAIpQLSeAZV8uZKjy2B7kafzXxwHZvnM-sG1vWWp8Og0ol081hl6xaQ/viewform). The submission of multiple incomplete or poor solutions will weaken your application.
 
