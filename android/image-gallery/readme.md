@@ -40,6 +40,8 @@ Users can view photo details, mark photos as favorites, and access them offline.
 
 
 
+
+
 >[!NOTE]
 > * You can build application using native android or Flutter.
 > * Design is important, but can be designed as you wish.
@@ -55,13 +57,13 @@ Users can view photo details, mark photos as favorites, and access them offline.
 * Project structure.
 
 #### Bonus points
-* use kotlin
+* Use kotlin
+* Write **unit tests** (e.g., repository logic, DB queries, or simple widget tests)
 * Use of 3rd party libraries like [Retrofit](http://square.github.io/retrofit/) or any ORM libraries would be a big plus.
 * If you can demonstrate the correct use of relevant 'Material Design' components in your application.
-* If you write a readme file which contains screenshots and a short description of your application.
+
 
 ### Flutter
-
 
 #### Criteria for judgement
 * Object Oriented approach used in project.
@@ -70,12 +72,13 @@ Users can view photo details, mark photos as favorites, and access them offline.
 
 
 #### Bonus points
-* Proper state management (e.g., Riverpod, Bloc).  
+* Proper state management (e.g., Riverpod, Bloc). 
 * Use of proper animations or hero transitions.   
 * Use of 3rd party libraries meaningfully (e.g., Dio, cached_network_image, Drift/Hive).  
 * Light/Dark Mode switch (with Material 3 dynamic colors)
 * Implementation of **search photos by keyword**. 
-* Write a **README** file which contains screenshots and a short description of your application. 
+* Write **unit tests** (e.g., repository logic, DB queries, or simple widget tests)
+
 
 #### Extra features
 These are optional features. Implementing them will give you extra points.
@@ -85,7 +88,25 @@ These are optional features. Implementing them will give you extra points.
 * Implementation of Show more photos by the same photographer.
 
 
+---
 
+### README File (Required)
+Your submission must include a **README.md** file in the root of the project. It should contain:
+
+* **Project setup information**  
+  - Flutter/Dart version  
+  - How to add the Unsplash **Access Key**  
+  - How to run the app  
+
+* **Project dependencies**  
+  - List of main dependencies (state management, DB, network, etc.)  
+
+* **App screenshots**  
+  - Feed screen (grid view)  
+  - Photo detail screen  
+  - Favorites screen  
+
+---
 
 * [Unsplash API Documentation](https://unsplash.com/documentation)
 
