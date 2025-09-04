@@ -1,25 +1,66 @@
-## What's wrong with the form?
+# 🧪 Internship QA Assessment  
 
-### What you need to do
+This repository contains the assessment for the **QA Internship Assessment**, which focuses on testing a **Notes Application** (task management tool).  
+The assessment involves creating test plans, test cases, API tests, and optional UI automation coverage.  
 
-* If you haven’t already, take a [git class in codeschool](https://www.simplilearn.com/learn-git-basics-skillup).
-* Once complete, create a private repo called “yipl-form-wrong” in [bitbucket](https://bitbucket.org)
-* Solve the problem detailed below
-* Push your code to the repo (make sure that you have multiple commits with proper messages) 
-* Invite internship-bitbucket@yipl.com.np to that particular private repo
-* Submit your application
+---
 
-#### Problem
+## 📌 What You Need to Do  
+1. If you haven’t already, take a Git class in **CodeSchool**.  
+2. Once complete, create a **private repository** called `yipl-qa-2025` in **GitHub**.  
+3. Solve the problem detailed below.  
+4. Push your code to the repository (**ensure multiple commits with proper commit messages**).  
+5. Invite **yi-internship** to that private repository.  
+6. Submit your application.  
 
-* Copy the following [folder](code) into your php-enabled web server. 
-* Access this [form](code/form.php) from the browser
+---
 
-* Describe, in list format, what is wrong with the given form. List as many issues as possible in a separate file "issues.txt". 
-* Fix the [form code](code/form.php) to address the issues you have identified.
-* Push both the code and "issues.txt" to the repo.
+## 📌 Assessment Overview  
+The objective of this assessment is to evaluate your ability to thoroughly test a software system across all its components and interfaces, ensuring smooth end-to-end functionality.  
 
-### Bonus points
+### ✅ Skills Assessed  
+1. **Testing Techniques** – Creating comprehensive test plans and test cases, and categorizing them by criticality.  
+2. **API Testing** – Writing API test cases and creating Postman collections.  
+3. **UI Automation** – Developing automation scripts in addition to manual testing.  
 
-* If you can write a UI testing code to automate the form testing (using Selenium).
+---
+
+## 📝 Tasks  
+
+### **Task 1 (Mandatory)**  
+- Create a **detailed Test Plan** document for the Notes Application.  
+- Develop **Test Cases** in Google Sheets.  
+- Application under test: [Notes Application (UI)](https://practice.expandtesting.com/notes/app)  
+
+📄 **Deliverables:**  
+- Test Plan document (`.docx`)  
+- Test Cases document (`.xlsx`)  
+
+---
+
+### **Task 2 (Optional – Extra Marks)**  
+- Write **API Test Cases**.  
+- Create a **Postman Collection** for API testing.  
+- API Docs: [Notes API Documentation](https://practice.expandtesting.com/notes/api/api-docs/#/)  
+
+📄 **Deliverables:**  
+- API Test Cases document (`.xlsx`)  
+- Postman collection JSON (`/postman/Notes_API_Tests.postman_collection.json`)  
+
+---
+
+### **Task 3 (Optional – Extra Marks)**  
+- Implement **UI Automation** using a preferred tool (e.g., Selenium, Cypress, Playwright).  
+- Automate the following scenarios:  
+  - Register  
+  - Login  
+  - Create Note  
+  - Edit Note  
+  - Delete Note  
+
+📄 **Deliverables:**  
+- Automation test scripts (`/automation/`)  
+- Execution guide (`Automation_Guide.md`)  
+
 
 
