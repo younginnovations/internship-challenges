@@ -4,10 +4,10 @@
 >[!IMPORTANT]
 > ## What you need to do?
 > * If you haven’t already, take a [git class in codeschool](https://www.simplilearn.com/learn-git-basics-skillup).
-> * Once complete, create a private repo called “yipl-mobile-image-gallery” in [github](https://github.com)
+> * Once complete, create a private repository called “yipl-mobile-image-gallery” in [github](https://github.com)
 > * Solve the problem detailed below
-> * Push your code to the repo (make sure that you have multiple commits with proper messages) 
-> * Invite internship@yipl.com.np to that particular private repo
+> * Push your code to the repository (make sure that you have multiple commits with proper messages) 
+> * Invite `yi-internship` to that particular private repository
 > * Submit your application
 
 ### Overview
