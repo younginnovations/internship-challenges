@@ -1,30 +1,30 @@
 # Technical Skills Assessment for Quality Assurance Officer 
 
-## 📌 Assessment Overview  
+## Assessment Overview  
 This assessment is designed to evaluate a candidate’s ability to thoroughly test a software system across all its components and interfaces, ensuring that the entire system functions seamlessly.  
 
 ---
 
-## ✅ Skills Assessed  
+## Skills Assessed  
 - **Testing Techniques**: Ability to create comprehensive test plans and test cases for functional testing, and categorize tests based on their criticality.  
 - **API Testing**: Ability to write API test cases and create Postman collections.  
 - **UI Automation**: Ability to develop UI automation scripts in addition to performing manual testing.  
 
 ---
 
-## 📝 Task Description  
+## Task Description  
 You will be responsible for testing both the **front-end** and **back-end** of a compact **Notes Application** designed for task management. Your responsibilities will include manual testing as well as setting up automation tests.  
 
 ---
 
-## 📂 Tasks  
+## Tasks  
 
 ### **Task 1 (Mandatory)**  
 - Create a detailed **Test Plan document** (use **Word**).  
 - Develop **Test Cases** (use **Excel**).  
 - Application under test: [Notes Application (UI)](https://practice.expandtesting.com/notes/app)  
 
-📄 Deliverables:  
+### Deliverables:  
 - Test Plan Document (Word file)  
 - Test Cases (Excel file)  
 
@@ -35,7 +35,7 @@ You will be responsible for testing both the **front-end** and **back-end** of a
 - Create a **Postman Collection** for API testing.  
 - API Docs: [Notes API Documentation](https://practice.expandtesting.com/notes/api/api-docs/#/)  
 
-📄 Deliverables:  
+### Deliverables:  
 - API Test Cases (Word/Excel file)  
 - Postman Collection (JSON file)  
 
@@ -50,13 +50,13 @@ You will be responsible for testing both the **front-end** and **back-end** of a
   - Edit Note  
   - Delete Note  
 
-📄 Deliverables:  
+### Deliverables:  
 - Automation test scripts  
 - Execution guide  
 
 ---
 
-## 🚀 Submission Instructions  
+## Submission Instructions  
 1. Submit all work using **GitHub**.  
 2. Attach and upload the **Word (Test Plan)** and **Excel (Test Cases)** documents in the repo.  
 3. Make the repository **public**.  
