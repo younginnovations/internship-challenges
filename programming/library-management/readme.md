@@ -17,7 +17,7 @@
 ### **Problem**
 
 ##### **Library Management application** 
-Create a RESTful API for a library management system using any programming language/framework of your choice. The API should manage books and authors with proper database relations, validation, and query parameters.
+Create a RESTful API for a library management system using a core programming language of your choice, without using any web frameworks (e.g., no Express.js, NestJS, Django, Flask, Spring Boot, Laravel etc.). The API should manage books and authors with proper database relations, validation, and query parameters.
 
 ##### **Requirements**
 ### 1. Database Setup
