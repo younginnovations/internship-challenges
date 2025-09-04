@@ -17,7 +17,7 @@
 ### **Problem**
 
 ##### **Library Management application** 
-Create a RESTful API for a library management system using a core programming language of your choice, without using any web frameworks (e.g., no Express.js, NestJS, Django, Flask, Spring Boot, Laravel etc.). The API should manage books and authors with proper database relations, validation, and query parameters.
+Create a RESTful API for a library management system using any programming language/framework of your choice. The API should manage books and authors with proper database relations, validation, and query parameters.
 
 ##### **Requirements**
 ### 1. Database Setup
@@ -25,6 +25,9 @@ Create a RESTful API for a library management system using a core programming la
 - Create two related tables:
   - `authors` table with fields: `id`, `name`, `email`, `created_at`
   - `books` table with fields: `id`, `title`, `isbn`, `published_year`, `author_id` (foreign key to authors), `created_at`
+- You must include:
+  - A migration file to create the schema automatically.
+  - A seeder file with sample data for authors and books.
 
 ### 2. API Endpoints
 
@@ -39,7 +42,7 @@ Create a RESTful API for a library management system using a core programming la
 
 ### 3. Validation
 - **Author validation**: Name (required, min 2 chars), Email (required, valid format)
-- **Book validation**: Title (required, min 1 char), ISBN (required, valid format), Published Year (valid year)
+- **Book validation**: Title (required, min 1 char), ISBN (required, must be a 10-digit unique value), Published Year (valid year)
 - Return appropriate error messages for validation failures
 
 ### 4. Query Parameters
@@ -71,3 +74,6 @@ For `GET /books`:
 - Add pagination to list endpoints
 - Add unit tests
 - Add search functionality across multiple fields
+- Add Swagger/OpenAPI, Docker, GitHub Actions, Logging
+- Use any core programming language (Python, PHP, Node.js, etc.)
+- If you have your own ideas for additional features, feel free to implement them
